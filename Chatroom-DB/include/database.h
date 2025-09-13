@@ -1,0 +1,1 @@
+char *login2db();
