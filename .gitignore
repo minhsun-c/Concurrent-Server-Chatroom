@@ -1,7 +1,9 @@
-.DS_store
-.vscode/*
+*/.DS_store
+*/.vscode/*
 *.txt
 *.o
-bin/*
-tmp/*
-obj/*
+*.yml
+*dSYM
+*/bin/*
+*/tmp/*
+*/obj/*
